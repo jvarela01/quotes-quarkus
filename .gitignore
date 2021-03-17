@@ -45,6 +45,6 @@ target/maven-archiver
 target/maven-status
 target/quarkus
 target/quarkus-app
-target/quotes-quarkus-1.0.0-SNAPSHOT-runner
+target/quotes-quarkus-1.0.0-SNAPSHOT.jar
 target/surefire-reports
 target/test-classes
